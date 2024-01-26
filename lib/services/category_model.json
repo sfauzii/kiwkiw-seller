@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "name": "Jersey Timnas",
+        "subcategory": ["Home Indonesia", "Home Argentina", "Home Jepang"]
+      },
+      {
+        "name": "Sepatu Olahraga",
+        "subcategory": ["Sepatu Bola", "Sepatu Futsal", "Sprint"]
+      },
+      {
+        "name": "Pakaian Olahraga",
+        "subcategory": ["Pakaian Aerobik", "Pakaian Kardio", "Pakaian Yoga"]
+      },
+      {
+        "name": "Accessoris",
+        "subcategory": ["Acc Pelindung", "Acc Kinerja", "Acc Pendukung"]
+      },
+      {
+        "name": "Peralatan Fitnes",
+        "subcategory": ["Kardiovaskular", "Fungsional"]
+      },
+      {
+        "name": "Alat Olahraga",
+        "subcategory": ["Bola", "Olahraga Tradisional", "Olahraga Alternatif"]
+      },
+      {
+        "name": "Nutrisi dan Suplemen",
+        "subcategory": ["Vitamin", "Protein", "Kinerja dan Energi"]
+      },
+      {
+        "name": "Aksesoris Tim",
+        "subcategory": ["Seragam", "Pelatihan", "Keamanan"]
+      },
+      {
+        "name": "Peralatan Ekstrem",
+        "subcategory": ["Peralatan Air", "Peralatan Udara", "Peralatan Darat"]
+      }
+    ]
+  }
+  

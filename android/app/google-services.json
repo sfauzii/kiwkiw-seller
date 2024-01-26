@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326898663142",
+    "project_id": "kiwkiw-438d5",
+    "storage_bucket": "kiwkiw-438d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326898663142:android:a2031d1b1b7ab7d0a68527",
+        "android_client_info": {
+          "package_name": "com.example.kiwkiw_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2MWishD2X991Md3VL41WPfK_Q85s8oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326898663142:android:e669e70dc4b14ebfa68527",
+        "android_client_info": {
+          "package_name": "com.example.kiwkiw_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2MWishD2X991Md3VL41WPfK_Q85s8oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
